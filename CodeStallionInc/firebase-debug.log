@@ -1,0 +1,42 @@
+[debug] [2019-01-31T10:07:06.611Z] ----------------------------------------------------------------------
+[debug] [2019-01-31T10:07:06.615Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Sontaga\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2019-01-31T10:07:06.615Z] CLI Version:   6.3.0
+[debug] [2019-01-31T10:07:06.615Z] Platform:      win32
+[debug] [2019-01-31T10:07:06.615Z] Node Version:  v11.3.0
+[debug] [2019-01-31T10:07:06.617Z] Time:          Thu Jan 31 2019 12:07:06 GMT+0200 (South Africa Standard Time)
+[debug] [2019-01-31T10:07:06.617Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2019-01-31T10:07:06.629Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2019-01-31T10:07:06.629Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\Sontaga\Documents\CodeStallionInc
+
+[debug] [2019-01-31T10:07:25.486Z] ----------------------------------------------------------------------
+[debug] [2019-01-31T10:07:25.489Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Sontaga\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init --interactive
+[debug] [2019-01-31T10:07:25.490Z] CLI Version:   6.3.0
+[debug] [2019-01-31T10:07:25.490Z] Platform:      win32
+[debug] [2019-01-31T10:07:25.490Z] Node Version:  v11.3.0
+[debug] [2019-01-31T10:07:25.492Z] Time:          Thu Jan 31 2019 12:07:25 GMT+0200 (South Africa Standard Time)
+[debug] [2019-01-31T10:07:25.492Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2019-01-31T10:07:25.505Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2019-01-31T10:07:25.506Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\Sontaga\Documents\CodeStallionInc
+
